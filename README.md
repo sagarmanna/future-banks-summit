@@ -29,7 +29,3 @@ Built using **React + Vite + TailwindCSS**, the project focuses on speed, clarit
 | **PostCSS** | CSS processing |
 | **Vercel** | Hosting & deployment |
 
----
-
-## 📁 Folder Structure
-
